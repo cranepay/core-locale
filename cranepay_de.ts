@@ -3658,7 +3658,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Unzureichender Guthaben</translation>
+        <translation>Unzureichendes Guthaben</translation>
     </message>
     <message>
         <source>Can&apos;t generate a change-address key. Private keys are disabled for this wallet.</source>
