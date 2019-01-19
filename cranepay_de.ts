@@ -61,11 +61,11 @@
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Senderaddressen</translation>
+        <translation>Sendeaddressen</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Empfängeradressen</translation>
+        <translation>Empfangsadressen</translation>
     </message>
     <message>
         <source>These are your cranepay addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>Kommagetrennte-Datei (*.csv)</translation>
+        <translation>Kommagetrennte Datei (*.csv)</translation>
     </message>
     <message>
         <source>Exporting Failed</source>
@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Geben Sie die neue Passphrase für die Brieftasche ein.&lt;br&gt;Bitte benutzen Sie eine Passphrase bestehend aus &lt;b&gt;zehn oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;acht oder mehr Wörtern&lt;/b&gt;.</translation>
+        <translation>Geben Sie die neue Passphrase für die Wallet ein.&lt;br&gt;Bitte benutzen Sie eine Passphrase bestehend aus &lt;b&gt;zehn oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;acht oder mehr Wörtern&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Dieser Vorgang benötigt Ihre Passphrase, um die Brieftasche zu entsperren.</translation>
+        <translation>Dieser Vorgang benötigt Ihre Passphrase, um die Wallet zu entsperren.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
@@ -159,11 +159,11 @@
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Dieser Vorgang benötigt Ihre Passphrase, um die Brieftasche zu entschlüsseln.</translation>
+        <translation>Dieser Vorgang benötigt Ihre Passphrase, um die Wallet zu entschlüsseln.</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Brieftasche entschlüsseln</translation>
+        <translation>Wallet entschlüsseln</translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -171,39 +171,39 @@
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>Geben Sie die alte und neue Brieftschen-Passphrase ein.</translation>
+        <translation>Geben Sie die alte und neue Wallet-Passphrase ein.</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Brieftaschen-Verschlüsselung bestätigen</translation>
+        <translation>Wallet-Verschlüsselung bestätigen</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation type="unfinished">Warnung: Wenn Sie Ihre Brieftasche verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;alle Ihre CRPs verlieren&lt;/b&gt;!</translation>
+        <translation type="unfinished">Warnung: Wenn Sie Ihre Wallet verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;alle Ihre CRPs verlieren&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation type="unfinished">Sind Sie sich sicher, dass Sie Ihre Brieftasche verschlüsseln möchten?</translation>
+        <translation type="unfinished">Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Brieftasche verschlüsselt</translation>
+        <translation>Wallet verschlüsselt</translation>
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cranepays from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished">%1 wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Brieftaschen-Verschlüsselung nicht vollständig vor Diebstahl Ihrer CRPs durch Schadprogramme schützt, die Ihren Computer befällt.</translation>
+        <translation type="unfinished">%1 wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Wallet-Verschlüsselung nicht vollständig vor Diebstahl Ihrer CRPs durch Schadprogramme schützt, die Ihren Computer befallen.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>WICHTIG: Alle vorherigen Brieftaschen-Sicherungen sollten durch die neu erzeugte, verschlüsselte Brieftasche ersetzt werden. Aus Sicherheitsgründen werden vorherige Sicherungen der unverschlüsselten Brieftasche nutzlos, sobald Sie die neue, verschlüsselte Brieftasche verwenden.</translation>
+        <translation>WICHTIG: Alle vorherigen Wallet-Sicherungen sollten durch die neu erzeugte, verschlüsselte Wallet ersetzt werden. Aus Sicherheitsgründen werden vorherige Sicherungen der unverschlüsselten Wallet nutzlos, sobald Sie die neue, verschlüsselte Wallet verwenden.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>Brieftaschen-Verschlüsselung fehlgeschlagen</translation>
+        <translation>Wallet-Verschlüsselung fehlgeschlagen</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Die Brieftaschen-Verschlüsselung ist aufgrund eines internen Fehlers fehlgeschlagen. Ihre Brieftasche wurde nicht verschlüsselt.</translation>
+        <translation>Die Wallet-Verschlüsselung ist aufgrund eines internen Fehlers fehlgeschlagen. Ihre Wallet wurde nicht verschlüsselt.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
@@ -211,19 +211,19 @@
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>Brieftaschen-Entsperrung fehlgeschlagen</translation>
+        <translation>Wallet-Entsperrung fehlgeschlagen</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Die eingegebene Passphrase zur Brieftaschen-Entschlüsselung war nicht korrekt.</translation>
+        <translation>Die eingegebene Passphrase zur Wallet-Entschlüsselung war nicht korrekt.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>Brieftaschen-Entschlüsselung fehlgeschlagen</translation>
+        <translation>Wallet-Entschlüsselung fehlgeschlagen</translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Die Brieftaschen-Passphrase wurde erfolgreich geändert.</translation>
+        <translation>Die Wallet-Passphrase wurde erfolgreich geändert.</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -261,7 +261,7 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Allgemeine Wallet-Übersicht anzeigen</translation>
+        <translation>Wallet-Übersicht anzeigen</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -329,11 +329,11 @@
     </message>
     <message>
         <source>Wallet:</source>
-        <translation>Brieftasche:</translation>
+        <translation>Wallet:</translation>
     </message>
     <message>
         <source>default wallet</source>
-        <translation>Standard Brieftasche</translation>
+        <translation>Standard Wallet</translation>
     </message>
     <message>
         <source>Click to disable network activity.</source>
@@ -349,7 +349,7 @@
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
-        <translation>Kopfdaten werden synchronisiert (%1%)...</translation>
+        <translation>Header werden synchronisiert (%1%)...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>Send coins to a Cranepay address</source>
-        <translation type="unfinished">CRPs an eine cranepay-Adresse überweisen</translation>
+        <translation>Coins an eine cranepay-Adresse überweisen</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -385,11 +385,11 @@
     </message>
     <message>
         <source>Cranepay</source>
-        <translation type="unfinished">Cranepay</translation>
+        <translation">Cranepay</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation type="unfinished">Brieftasche</translation>
+        <translation>Wallet</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -413,11 +413,11 @@
     </message>
     <message>
         <source>Sign messages with your Cranepay addresses to prove you own them</source>
-        <translation>Nachrichten signieren, um den Besitz Ihrer Cranepay-Adressen zu beweisen</translation>
+        <translation>Nachrichten signieren, um den Besitz Ihrer cranepay-Adressen zu beweisen</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Cranepay addresses</source>
-        <translation>Nachrichten verifizieren, um sicherzustellen, dass diese mit den angegebenen Cranepay-Adressen signiert wurden</translation>
+        <translation>Nachrichten verifizieren, um sicherzustellen, dass diese mit den angegebenen cranepay-Adressen signiert wurden</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -437,7 +437,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and cranepay: URIs)</source>
-        <translation type="unfinished">Zahlungen anfordern (erzeugt QR-Codes und &quot;cranepay:&quot;-URIs)</translation>
+        <translation>Zahlungen anfordern (erzeugt QR-Codes und cranepay-URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -449,7 +449,7 @@
     </message>
     <message>
         <source>Open a cranepay: URI or payment request</source>
-        <translation type="unfinished">Eine &quot;cranepay:&quot;-URI oder Zahlungsanforderung öffnen</translation>
+        <translation>Eine &quot;cranepay:&quot;-URI oder Zahlungsanforderung öffnen</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -458,8 +458,8 @@
     <message numerus="yes">
         <source>%n active connection(s) to Cranepay network</source>
         <translation type="unfinished">
-            <numerusform>%n aktive Verbindung zum Cranepay-Netzwerk</numerusform>
-            <numerusform>%n aktive Verbindungen zum Cranepay-Netzwerk</numerusform>
+            <numerusform>%n aktive Verbindung zum cranepay-Netzwerk</numerusform>
+            <numerusform>%n aktive Verbindungen zum cranepay-Netzwerk</numerusform>
         </translation>
     </message>
     <message>
@@ -506,7 +506,7 @@
         <translation>Auf aktuellem Stand</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Cranepay command-line options</source>
+        <source>Show the %1 help message to get a list with possible cranepay command-line options</source>
         <translation>Zeige den &quot;%1&quot;-Hilfetext, um eine Liste mit möglichen Kommandozeilenoptionen zu erhalten</translation>
     </message>
     <message>
@@ -536,7 +536,7 @@
     <message>
         <source>Wallet: %1
 </source>
-        <translation>Brieftasche: %1
+        <translation>Wallet: %1
 </translation>
     </message>
     <message>
@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Cranepay can no longer continue safely and will quit.</source>
-        <translation type="unfinished">Ein schwerer Fehler ist aufgetreten. cranepay kann nicht stabil weiter ausgeführt werden und wird beendet.</translation>
+        <translation>Ein schwerer Fehler ist aufgetreten. Cranepay kann nicht risikofrei weiter ausgeführt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -785,7 +785,7 @@
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>Brieftasche konnte nicht entsperrt werden.</translation>
+        <translation>Wallet konnte nicht entsperrt werden.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
@@ -850,11 +850,11 @@
     </message>
     <message>
         <source>When you click OK, %1 will begin to download and process the full %4 block chain (%2GB) starting with the earliest transactions in %3 when %4 initially launched.</source>
-        <translation>Wenn Sie OK klicken, wird der Download %1 angestoßen und die volle %4 Blockchain (%2GB) verarbeitet. Die Verarbeitung beginnt mit den frühesten Transaktionen in %3 , wenn %4 gestartet sind.</translation>
+        <translation>Wenn Sie OK klicken, wird der Download %1 angestoßen und die komplette %4 Blockchain (%2GB) verarbeitet. Die Verarbeitung beginnt mit den frühesten Transaktionen in %3 , als %4 gestartet wurde.</translation>
     </message>
     <message>
         <source>This initial synchronisation is very demanding, and may expose hardware problems with your computer that had previously gone unnoticed. Each time you run %1, it will continue downloading where it left off.</source>
-        <translation>Diese initiale Synchronisation führt zur hohen Last und kann Harewareprobleme, die bisher nicht aufgetreten sind, mit ihrem Computer verursachen. Jedes Mal, wenn Sie %1 ausführen, wird der Download zum letzten Synchronisationspunkt fortgesetzt.</translation>
+        <translation>Diese Erstsynchronisation führt zu hoher Last und kann Harewareprobleme, die bisher nicht aufgetreten sind, bei ihrem Computer verursachen. Jedes Mal, wenn Sie %1 ausführen, wird der Download vom letzten Synchronisationspunkt fortgesetzt.</translation>
     </message>
     <message>
         <source>If you have chosen to limit block chain storage (pruning), the historical data must still be downloaded and processed, but will be deleted afterward to keep your disk usage low.</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
-        <translation>Zuletzt werden %1 GB Daten in diesem Verzeichnis gespeichert und diese wird über die Zeit größer.</translation>
+        <translation>Es werden mindestens %1 GB Daten in diesem Verzeichnis gespeichert, die Datenmenge wird mit der Zeit größer.</translation>
     </message>
     <message>
         <source>Approximately %1 GB of data will be stored in this directory.</source>
@@ -882,11 +882,11 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Cranepay block chain.</source>
-        <translation type="unfinished">%1 wird heruntergeladen und als eine Kopie von dem Cranepay Blockchain gespeichert.</translation>
+        <translation type="unfinished">%1 wird heruntergeladen und als eine Kopie von dem cranepay Blockchain gespeichert.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
-        <translation type="unfinished">Die Brieftasche wird ebenso in diesem Verzeichnis gespeichert werden.</translation>
+        <translation type="unfinished">Die Wallet wird ebenso in diesem Verzeichnis gespeichert werden.</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; cannot be created.</source>
@@ -935,7 +935,7 @@
     </message>
     <message>
         <source>Last block time</source>
-        <translation>Letzte Blockzeit</translation>
+        <translation>Letzter Block von</translation>
     </message>
     <message>
         <source>Progress</source>
@@ -951,7 +951,7 @@
     </message>
     <message>
         <source>Estimated time left until synced</source>
-        <translation>Abschätzung der verbleibenden Zeit bis synchronisiert</translation>
+        <translation>Geschätzte Zeit bis voll synchronisiert</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -959,7 +959,7 @@
     </message>
     <message>
         <source>Unknown. Syncing Headers (%1)...</source>
-        <translation>Unbekannt. Synchronisiere Headers (%1)...</translation>
+        <translation>Unbekannt. Synchronisiere Header (%1)...</translation>
     </message>
 </context>
 <context>
@@ -1013,7 +1013,7 @@
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>Anzahl an Skript-&amp;Verifizierungs-Threads</translation>
+        <translation>Anzahl der Skript-&amp;Verifizierungs-Threads</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
@@ -1021,7 +1021,7 @@
     </message>
     <message>
         <source>Shows if the supplied default SOCKS5 proxy is used to reach peers via this network type.</source>
-        <translation>Zeigt an, ob der gelieferte Standard SOCKS5 Proxy verwendet wurde, um die Peers mit diesem Netzwerktyp zu erreichen.</translation>
+        <translation>Zeigt an, ob der angegebene Standard SOCKS5 Proxy verwendet wurde, um die Peers mit diesem Netzwerktyp zu erreichen.</translation>
     </message>
     <message>
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor hidden services:</source>
@@ -1029,11 +1029,11 @@
     </message>
     <message>
         <source>Hide the icon from the system tray.</source>
-        <translation>Verstecke das Icon von der Statusleiste.</translation>
+        <translation>Verberge das Icon in der Statusleiste.</translation>
     </message>
     <message>
         <source>&amp;Hide tray icon</source>
-        <translation>&amp;Verstecke Statusleistensymbol</translation>
+        <translation>&amp;Verberge Statusleistensymbol</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Exit in the menu.</source>
@@ -1069,7 +1069,7 @@
     </message>
     <message>
         <source>Prune &amp;block storage to</source>
-        <translation>&amp;block Speicher kürzen auf</translation>
+        <translation>&amp;block Speicher vermindern auf</translation>
     </message>
     <message>
         <source>GB</source>
@@ -1292,7 +1292,7 @@
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>Erarbeiteter Betrag der noch nicht gereift ist</translation>
+        <translation>Ertrag aus Mining, der noch nicht gereift ist</translation>
     </message>
     <message>
         <source>Balances</source>
@@ -1339,7 +1339,7 @@
     </message>
     <message>
         <source>Cannot start cranepay: click-to-pay handler</source>
-        <translation type="unfinished">Kann nicht starten cranepay: click-to-pay handler</translation>
+        <translation type="unfinished">Kann cranepay nicht starten: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1419,7 +1419,7 @@
     </message>
     <message>
         <source>Network request error</source>
-        <translation>fehlerhafte Netzwerkanfrage</translation>
+        <translation>Fehlerhafte Netzwerkanfrage</translation>
     </message>
     <message>
         <source>Payment acknowledged</source>
@@ -1460,7 +1460,7 @@
         <translation>Betrag</translation>
     </message>
     <message>
-        <source>Enter a Cranepay address (e.g. %1)</source>
+        <source>Enter a cranepay address (e.g. %1)</source>
         <translation type="unfinished">cranepay-Adresse eingeben (z.B. %1)</translation>
     </message>
     <message>
@@ -1574,7 +1574,7 @@
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1.</source>
-        <translation>Fehler: Konfigurationsdatei konnte nicht Verarbeitet werden: %1.</translation>
+        <translation>Fehler: Konfigurationsdatei konnte nicht verarbeitet werden: %1.</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -1648,7 +1648,7 @@
     </message>
     <message>
         <source>Block chain</source>
-        <translation>Blockkette</translation>
+        <translation>Blockchain</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
@@ -1668,7 +1668,7 @@
     </message>
     <message>
         <source>Wallet: </source>
-        <translation>Brieftasche:</translation>
+        <translation>Wallet:</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -1700,7 +1700,7 @@
     </message>
     <message>
         <source>Whitelisted</source>
-        <translation>Zugelassene</translation>
+        <translation>Zugelassen</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1796,7 +1796,7 @@
     </message>
     <message>
         <source>Totals</source>
-        <translation>Gesamtbetrag:</translation>
+        <translation>Gesamt:</translation>
     </message>
     <message>
         <source>In:</source>
@@ -1844,7 +1844,7 @@
     </message>
     <message>
         <source>default wallet</source>
-        <translation>Standard Brieftasche</translation>
+        <translation>Standard Wallet</translation>
     </message>
     <message>
         <source>Welcome to the %1 RPC console.</source>
@@ -1864,7 +1864,7 @@
     </message>
     <message>
         <source>WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramifications of a command.</source>
-        <translation>WARNUNG: Betrüger sind aktiv gewesen, die Benutzer auffordern, hier Befehle einzugeben, um Brieftascheninhalte zu stehlen. Verwenden Sie diese Konsole nicht, ohne die Auswirkungen eines Befehls vollständig zu verstehen.</translation>
+        <translation>WARNUNG: Betrüger sind aktiv gewesen, die Benutzer auffordern, hier Befehle einzugeben, um Walletinhalte zu stehlen. Verwenden Sie diese Konsole nicht, ohne die Auswirkungen eines Befehls vollständig zu verstehen.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -1872,11 +1872,11 @@
     </message>
     <message>
         <source>Executing command without any wallet</source>
-        <translation>Befehl wird ohne spezifizierte Brieftasche ausgeführt</translation>
+        <translation>Befehl wird ohne spezifizierte Wallet ausgeführt</translation>
     </message>
     <message>
         <source>Executing command using &quot;%1&quot; wallet</source>
-        <translation>Befehl wird mit Brieftasche &quot;%1&quot; ausgeführt</translation>
+        <translation>Befehl wird mit Wallet &quot;%1&quot; ausgeführt</translation>
     </message>
     <message>
         <source>(node id: %1)</source>
@@ -1926,7 +1926,7 @@
         <translation>&amp;Nachricht:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cranepay network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the cranepay network.</source>
         <translation type="unfinished">Eine optionale Nachricht, die an die Zahlungsanforderung angehängt wird. Sie wird angezeigt, wenn die Anforderung geöffnet wird. Hinweis: Diese Nachricht wird nicht mit der Zahlung über das cranepay-Netzwerk gesendet.</translation>
     </message>
     <message>
@@ -1939,7 +1939,7 @@
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Ein optional angeforderte Betrag. Lassen Sie dieses Feld leer oder setzen Sie es auf 0, um keinen spezifischen Betrag anzufordern.</translation>
+        <translation>Ein optional angeforderter Betrag. Lassen Sie dieses Feld leer oder setzen Sie es auf 0, um keinen spezifischen Betrag anzufordern.</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
@@ -1951,11 +1951,11 @@
     </message>
     <message>
         <source>Native segwit addresses (aka Bech32 or BIP-173) reduce your transaction fees later on and offer better protection against typos, but old wallets don&apos;t support them. When unchecked, an address compatible with older wallets will be created instead.</source>
-        <translation>Ureigene SegWit-Adressen (alias Bech32 oder BIP-173) werden Ihre Transaktionsgebühren senken und bieten besseren Tippfehlerschutz, werden jedoch von alten Brieftaschen nicht unterstützt. Wenn abgewählt, wird eine mit älteren Brieftaschen kompatible Adresse erstellt.</translation>
+        <translation>Echte SegWit-Adressen (alias Bech32 oder BIP-173) werden Ihre Transaktionsgebühren senken und bieten besseren Tippfehlerschutz, werden jedoch von alten Wallets nicht unterstützt. Wenn abgewählt, wird eine mit älteren Wallets kompatible Adresse erstellt.</translation>
     </message>
     <message>
         <source>Generate native segwit (Bech32) address</source>
-        <translation>Generiere ureigene SegWit(Bech32)-Adresse</translation>
+        <translation>Generiere echte SegWit(Bech32)-Adresse</translation>
     </message>
     <message>
         <source>Requested payments history</source>
@@ -2108,7 +2108,7 @@
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Unzureichender Kontostand!</translation>
+        <translation>Unzureichendes Guthaben!</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -2196,7 +2196,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(Intelligente Gebührenlogik ist noch nicht verfügbar. Normalerweise dauert dies einige Blöcke lang...)</translation>
+        <translation>(Intelligente Gebührenlogik ist noch nicht verfügbar. Normalerweise dauert dies einige Blöcke...)</translation>
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
@@ -2216,7 +2216,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Confirmation time target:</source>
-        <translation>Bestätigungsziel:</translation>
+        <translation>Zeitrahmen fuer Bestätigung:</translation>
     </message>
     <message>
         <source>Enable Replace-By-Fee</source>
@@ -2292,7 +2292,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>from wallet %1</source>
-        <translation>aus Brieftasche %1</translation>
+        <translation>aus Wallet %1</translation>
     </message>
     <message>
         <source>Please, review your transaction.</source>
@@ -2316,7 +2316,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
-        <translation>Die Zahlungsadresse ist ungültig, bitte nochmals überprüfen.</translation>
+        <translation>Die Empfängeradresse ist ungültig, bitte überprüfen.</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
@@ -2324,11 +2324,11 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>Der angegebene Betrag übersteigt Ihren Kontostand.</translation>
+        <translation>Der angegebene Betrag übersteigt Ihr Guthaben.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Der angegebene Betrag übersteigt aufgrund der Transaktionsgebühr in Höhe von %1 Ihren Kontostand.</translation>
+        <translation>Der angegebene Betrag übersteigt aufgrund der Transaktionsgebühr in Höhe von %1 Ihr Guthaben.</translation>
     </message>
     <message>
         <source>Duplicate address found: addresses should only be used once each.</source>
@@ -2362,8 +2362,8 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
         </translation>
     </message>
     <message>
-        <source>Warning: Invalid Cranepay address</source>
-        <translation>Warnung: UngültigeCranepay-Adresse</translation>
+        <source>Warning: Invalid cranepay address</source>
+        <translation>Warnung: Ungültige cranepay-Adresse</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2375,7 +2375,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
-        <translation>Die ausgewählte Wechselgeld-Adresse ist nicht Bestandteil dieses Wallets. Einige oder alle Mittel aus Ihrem Wallet könnten an diese Adresse gesendet werden. Wollen Sie das wirklich?</translation>
+        <translation>Die ausgewählte Wechselgeld-Adresse ist nicht Bestandteil dieser Wallet. Einige oder alle Mittel aus Ihrem Wallet könnten an diese Adresse gesendet werden. Wollen Sie das wirklich?</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2405,7 +2405,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
         <translation>Dies ist eine normale Überweisung.</translation>
     </message>
     <message>
-        <source>The Cranepay address to send the payment to</source>
+        <source>The cranepay address to send the payment to</source>
         <translation>Die Zahlungsadresse der Überweisung</translation>
     </message>
     <message>
@@ -2453,7 +2453,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
         <translation>Adressbezeichnung eingeben, die dann zusammen mit der Adresse der Liste bereits verwendeter Adressen hinzugefügt wird.</translation>
     </message>
     <message>
-        <source>A message that was attached to the cranepay: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Cranepay network.</source>
+        <source>A message that was attached to the cranepay: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the cranepay network.</source>
         <translation type="unfinished">Eine an die &quot;cranepay:&quot;-URI angefügte Nachricht, die zusammen mit der Transaktion gespeichert wird. Hinweis: Diese Nachricht wird nicht über das cranepay-Netzwerk gesendet.</translation>
     </message>
     <message>
@@ -2502,7 +2502,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
         <translation type="unfinished">Sie können Nachrichten/Vereinbarungen mit Hilfe Ihrer Adressen signieren, um zu beweisen, dass Sie CRPs empfangen können, die an diese Adressen überwiesen werden. Seien Sie vorsichtig und signieren Sie nichts Vages oder Willkürliches, um Ihre Indentität vor Phishingangriffen zu schützen. Signieren Sie nur vollständig-detaillierte Aussagen, mit denen Sie auch einverstanden sind.</translation>
     </message>
     <message>
-        <source>The Cranepay address to sign the message with</source>
+        <source>The cranepay address to sign the message with</source>
         <translation type="unfinished">Die cranepay-Adresse mit der die Nachricht signiert wird</translation>
     </message>
     <message>
@@ -2534,7 +2534,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
         <translation>Aktuelle Signatur in die Zwischenablage kopieren</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cranepay address</source>
+        <source>Sign the message to prove you own this cranepay address</source>
         <translation type="unfinished">Die Nachricht signieren, um den Besitz dieser cranepay-Adresse zu beweisen</translation>
     </message>
     <message>
@@ -2558,11 +2558,11 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
         <translation>Geben Sie die Zahlungsadresse des Empfängers, Nachricht (achten Sie darauf Zeilenumbrüche, Leerzeichen, Tabulatoren usw. exakt zu kopieren) und Signatur unten ein, um die Nachricht zu verifizieren. Vorsicht, interpretieren Sie nicht mehr in die Signatur hinein, als in der signierten Nachricht selber enthalten ist, um nicht von einem Man-in-the-middle-Angriff hinters Licht geführt zu werden. Beachten Sie dass dies nur beweißt, dass die signierende Partei über diese Adresse Überweisungen empfangen kann.</translation>
     </message>
     <message>
-        <source>The Cranepay address the message was signed with</source>
+        <source>The cranepay address the message was signed with</source>
         <translation type="unfinished">Die cranepay-Adresse mit der die Nachricht signiert wurde</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cranepay address</source>
+        <source>Verify the message to ensure it was signed with the specified cranepay address</source>
         <translation type="unfinished">Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen cranepay-Adresse signiert wurde</translation>
     </message>
     <message>
@@ -2591,7 +2591,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation type="unfinished">Brieftasche-Entsperrung wurde abgebrochen.</translation>
+        <translation type="unfinished">Wallet-Entsperrung wurde abgebrochen.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
@@ -2895,7 +2895,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Mined</source>
-        <translation>Erarbeitet</translation>
+        <translation>Mined</translation>
     </message>
     <message>
         <source>watch-only</source>
@@ -3104,7 +3104,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation type="unfinished">Es wurde keine Brieftasche geladen.</translation>
+        <translation type="unfinished">Es wurde keine Wallet geladen.</translation>
     </message>
 </context>
 <context>
@@ -3162,11 +3162,11 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation type="unfinished">Brieftasche sichern</translation>
+        <translation type="unfinished">Wallet sichern</translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation type="unfinished">Brieftaschen-Daten (*.dat)</translation>
+        <translation type="unfinished">Wallet-Daten (*.dat)</translation>
     </message>
     <message>
         <source>Backup Failed</source>
@@ -3174,7 +3174,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>There was an error trying to save the wallet data to %1.</source>
-        <translation type="unfinished">Beim Speichern der Brieftaschen-Daten nach %1 ist ein Fehler aufgetreten.</translation>
+        <translation type="unfinished">Beim Speichern der Wallet-Daten nach %1 ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <source>Backup Successful</source>
@@ -3182,7 +3182,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>The wallet data was successfully saved to %1.</source>
-        <translation type="unfinished">Speichern der Brieftasche-Daten nach %1 war erfolgreich.</translation>
+        <translation type="unfinished">Speichern der Wallet-Daten nach %1 war erfolgreich.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3201,7 +3201,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Prune: last wallet synchronisation goes beyond pruned data. You need to -reindex (download the whole blockchain again in case of pruned node)</source>
-        <translation>Prune (Kürzung): Die letzte Syncronisation der Brieftasche liegt vor gekürzten (gelöschten) Blöcken. Es ist ein -reindex (download der gesamten Blockkette) notwendig.</translation>
+        <translation>Prune (Kürzung): Die letzte Syncronisation der Wallet liegt vor gekürzten (gelöschten) Blöcken. Es ist ein -reindex (download der gesamten Blockkette) notwendig.</translation>
     </message>
     <message>
         <source>Rescans are not possible in pruned mode. You will need to use -reindex which will download the whole blockchain again.</source>
@@ -3309,7 +3309,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Error creating %s: You can&apos;t create non-HD wallets with this version.</source>
-        <translation>Fehler beim Laden von %s: Sie können HD nicht aktivieren da sie derzeit eine nicht HD Brieftasche besitzen.</translation>
+        <translation>Fehler beim Laden von %s: Sie können HD nicht aktivieren da sie derzeit eine nicht HD Wallet besitzen.</translation>
     </message>
     <message>
         <source>Error initializing block database</source>
@@ -3330,7 +3330,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Error loading %s: Wallet corrupted</source>
-        <translation type="unfinished">Fehler beim Laden von %s: Die Brieftasche ist beschädigt</translation>
+        <translation type="unfinished">Fehler beim Laden von %s: Die Wallet ist beschädigt</translation>
     </message>
     <message>
         <source>Error loading %s: Wallet requires newer version of %s</source>
@@ -3354,7 +3354,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Failed to rescan the wallet during initialization</source>
-        <translation>Durchsuchen des Wallets während der Initialisation fehlgeschlagen. </translation>
+        <translation>Durchsuchen der Wallet während der Initialisation fehlgeschlagen. </translation>
     </message>
     <message>
         <source>Importing...</source>
@@ -3478,7 +3478,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Error loading %s: You can&apos;t disable HD on an already existing HD wallet</source>
-        <translation>Fehler beim Laden von %s: Sie können die hierarchisch deterministische Schlüsselgeneration (HD) für eine bereits existierende HD-Brieftasche nicht deaktivieren</translation>
+        <translation>Fehler beim Laden von %s: Sie können die hierarchisch deterministische Schlüsselgeneration (HD) für eine bereits existierende HD-Wallet nicht deaktivieren</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3566,7 +3566,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Wallet %s resides outside wallet directory %s</source>
-        <translation>Brieftasche %s liegt außerhalb des Datenverzechnisses %s</translation>
+        <translation>Wallet %s liegt außerhalb des Datenverzechnisses %s</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3586,7 +3586,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Error loading %s: You can&apos;t enable HD on an already existing non-HD wallet</source>
-        <translation>Fehler beim Herunterladen von %s: Sie können keine hierarchisch deterministische Schlüsselgeneration (HD) auf eine bereits existierende nicht-HD Brieftasche (Wallet) aktivieren.</translation>
+        <translation>Fehler beim Herunterladen von %s: Sie können keine hierarchisch deterministische Schlüsselgeneration (HD) auf eine bereits existierende nicht-HD Wallet (Wallet) aktivieren.</translation>
     </message>
     <message>
         <source>This is the transaction fee you may pay when fee estimates are not available.</source>
@@ -3618,7 +3618,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Error loading wallet %s. Duplicate -wallet filename specified.</source>
-        <translation>Fehler beim Laden der Brieftasche %s. -wallet Dateiname doppelt angegeben.</translation>
+        <translation>Fehler beim Laden der Wallet %s. -wallet Dateiname doppelt angegeben.</translation>
     </message>
     <message>
         <source>Keypool ran out, please call keypoolrefill first</source>
@@ -3658,11 +3658,11 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Unzureichender Kontostand</translation>
+        <translation>Unzureichender Guthaben</translation>
     </message>
     <message>
         <source>Can&apos;t generate a change-address key. Private keys are disabled for this wallet.</source>
-        <translation>Es kann keinen privater Schlüssel für eine Wechselgeldaddresse generiert werden. Private Schlüssel sind für diese Brieftasche deaktiviert.</translation>
+        <translation>Es kann keinen privater Schlüssel für eine Wechselgeldaddresse generiert werden. Private Schlüssel sind für diese Wallet deaktiviert.</translation>
     </message>
     <message>
         <source>Cannot upgrade a non HD split wallet without upgrading to support pre split keypool. Please use -upgradewallet=169900 or -upgradewallet with no version specified.</source>
@@ -3674,7 +3674,7 @@ Hinweis: Eine Gebühr von &quot;100 crany pro kB&quot; bei einer Größe der Tra
     </message>
     <message>
         <source>Warning: Private keys detected in wallet {%s} with disabled private keys</source>
-        <translation>Warnung: Es wurden private Schlüssel in der Brieftasche {%s} entdeckt, welche private Schlüssel jedoch deaktiviert hat.</translation>
+        <translation>Warnung: Es wurden private Schlüssel in der Wallet {%s} entdeckt, welche private Schlüssel jedoch deaktiviert hat.</translation>
     </message>
     <message>
         <source>Cannot write to data directory &apos;%s&apos;; check permissions.</source>
