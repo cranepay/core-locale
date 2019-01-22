@@ -385,7 +385,7 @@
     </message>
     <message>
         <source>Cranepay</source>
-        <translation">Cranepay</translation>
+        <translation>Cranepay</translation>
     </message>
     <message>
         <source>Wallet</source>
